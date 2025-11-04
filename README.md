@@ -1,6 +1,6 @@
 # "EtherWiz" Acorn Ethernet podule (WizNet W6100)
 
-September 2025
+November 2025
 
 A work in progress firmware for my Ethernet card using the WizNet W6100 device in MACRAW mode.  No 'legacy' components - everything is available as new/active hardware.   There's 512K flash on board rather than a podule ROM - the flash can be updated from RISC OS.
 
